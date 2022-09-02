@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Josselin</h1>
-<h3 align="center">A Python developer</h3>
+<h1 align="center">Hi! I'm Josselin</h1>
+<h3 align="center">A Python developer 🐍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cubelogique&label=Profile%20views&color=0e75b6&style=flat" alt="cubelogique" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Python Arcade**
 
-- 📫 How to reach me **cubelogique@gmail.com**
+- 📫 Contact me with **cubelogique@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
