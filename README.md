@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [OpenLab](https://cubelogique.itch.io/openlab)
 
-- 🌱 I’m currently learning **Python and Python Arcade**
-
-- 📫 Contact me with **cubelogique@gmail.com**
+- 🌱 I’m currently learning **Python and Godot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
